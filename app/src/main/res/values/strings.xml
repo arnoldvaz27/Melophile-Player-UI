@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Melophile player UI</string>
+    <string name="todo">TODO</string>
+    <string name="_0_0">0:0</string>
+    <string name="this_is_song_artist">This is song Artist</string>
+    <string name="this_is_song_name">This is song Name</string>
+</resources>
