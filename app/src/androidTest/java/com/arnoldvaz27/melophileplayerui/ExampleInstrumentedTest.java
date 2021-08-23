@@ -1,4 +1,4 @@
-package com.example.melophileplayerui;
+package com.arnoldvaz27.melophileplayerui;
 
 import android.content.Context;
 
